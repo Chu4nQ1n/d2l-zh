@@ -2,3 +2,9 @@
 *.png
 *.zip
 *.gz
+pytorch/data/cifar-10-batches-py/data_batch_4
+*.meta
+pytorch/data/cifar-10-batches-py/data_batch_1
+pytorch/data/cifar-10-batches-py/data_batch_2
+pytorch/data/cifar-10-batches-py/data_batch_3
+pytorch/data/cifar-10-batches-py/data_batch_5
