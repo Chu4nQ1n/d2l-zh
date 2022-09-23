@@ -11,3 +11,4 @@ pytorch/data/cifar-10-batches-py/data_batch_5
 *.xml
 *.jpg
 *.txt
+*.tar
